@@ -92,6 +92,7 @@ I’m an **AI Engineer** at Bosch Global Software Technologies with a strong aca
 ---
 
 ### 📜 Certifications & Courses
+- **Azure AI Associate (AI102)** (Microsoft)
 - **Generative AI with LangChain & HuggingFace** (Udemy)  
 - **Google Advanced Data Analytics** (Coursera)  
 - **Minor in AI/ML**, P.V.G's COET – GPA: 9.24/10  
