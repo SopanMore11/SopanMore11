@@ -11,7 +11,7 @@
   <a href="mailto:sopanm114@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/SopanMore11" target="_blank">
+  <a href="https://leetcode.com/u/sopanm114/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
@@ -104,7 +104,8 @@ AI Engineer at **Bosch Global Software Technologies** with 2+ years of experienc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SopanMore11&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SopanMore11&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SopanMore11&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SopanMore11&theme=tokyonight&hide_border=true"/>
@@ -113,5 +114,4 @@ AI Engineer at **Bosch Global Software Technologies** with 2+ years of experienc
 ---
 
 <p align="center">
-  <i>If it can be automated with AI, I've probably already built it — or I'm building it right now.</i>
-</p>
+  <i>If it can be automated with AI, I've probably already built it �
