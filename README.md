@@ -86,6 +86,8 @@ I’m an **AI Engineer** at Bosch Global Software Technologies with a strong aca
 |--------|-------------|-------|------|
 | **[LLM-Powered RAG System](https://github.com/SopanMore11/GenAI-bot)** | Real-time document interaction with Llama 3.1, LangChain, and React frontend. | Python, LangChain, React | 🔗 GitHub |
 | **[Stock Price Prediction](https://github.com/SopanMore11/STOCK-PREDICTOR)** | Predict next-day prices with multi-layer LSTM & technical indicators (RSI, EMA, MACD). | Python, TensorFlow, Scikit-learn | 🔗 GitHub |
+| **[WingMan AI]([https://github.com/SopanMore11/STOCK-PREDICTOR](https://github.com/SopanMore11/wingman---An-AI-Assistant))** | Telegram based personal assistant who takes care of my tasks. | Python, Google ADK, Google APIs | 🔗 GitHub |
+
 
 ---
 
